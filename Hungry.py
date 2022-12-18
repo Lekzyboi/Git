@@ -6,6 +6,7 @@ food = input('What is for Breakfast?')
 if input == 'Rice':
     print('Nice Breakfast')
     print('Amala')
+    print('Ewa')
 elif input == 'Beans':
     print('Not too good')
 else:
