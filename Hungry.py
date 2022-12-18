@@ -8,5 +8,6 @@ if input == 'Rice':
     print('Amala')
 elif input ('are you thirsty')
     print('Take Water')
+    print('Take Soda')
 else:
     print('get out of here')
