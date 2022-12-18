@@ -6,7 +6,7 @@ food = input('What is for Breakfast?')
 if input == 'Rice':
     print('Nice Breakfast')
     print('Amala')
-elif input == 'Beans':
-    print('Not too good')
+elif input ('are you thirsty')
+    print('Take Water')
 else:
-    print('Why have you not eaten')
+    print('get out of here')
