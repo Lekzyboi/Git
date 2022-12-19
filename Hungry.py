@@ -3,7 +3,7 @@ food = input('What is for Breakfast?')
 if input == 'Rice':
     print('Nice Breakfast')
     print('Amala')
-    print('Ewa')
+    print('EwaAlagbado')
 elif input == 'Beans':
     print('Not too good')
 elif input ('are you thirsty')
