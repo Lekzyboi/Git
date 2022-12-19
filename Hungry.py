@@ -16,4 +16,4 @@ elif input ('are you thirsty')
 else:
     print('get out of here')
     printed
-    printiiing
+    printiiitnmhgh
