@@ -11,3 +11,4 @@ elif input ('are you thirsty')
     print('Take Soda')
 else:
     print('get out of here')
+    printed
